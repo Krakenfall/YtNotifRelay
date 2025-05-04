@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YtNotifRelay", "YtNotifRelay\YtNotifRelay.csproj", "{BDDA3329-F8E9-4DFD-A181-0EF8F93A70B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDA3329-F8E9-4DFD-A181-0EF8F93A70B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDA3329-F8E9-4DFD-A181-0EF8F93A70B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDA3329-F8E9-4DFD-A181-0EF8F93A70B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDA3329-F8E9-4DFD-A181-0EF8F93A70B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B089E45E-AB07-485A-B414-9AF56AF50D57}
+	EndGlobalSection
+EndGlobal

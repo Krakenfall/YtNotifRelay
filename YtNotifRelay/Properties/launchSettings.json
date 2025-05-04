@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "YtNotifRelay": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 9001",
+      "launchBrowser": false
+    }
+  }
+}
